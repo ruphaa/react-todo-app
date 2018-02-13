@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Usage & Demo
 [https://dry-mountain-79163.herokuapp.com/](https://dry-mountain-79163.herokuapp.com/)
 
-# To run application locally
+# Guide
 
 ```bash
 git clone https://github.com/ruphaa/react-todo-app.git
